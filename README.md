@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**bahrom0/bahrom0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="image_1.png" width="100%">
 
-Here are some ideas to get you started:
+**Software Developer from Tajikistan 🇹🇯**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Always learning.**
+- **Always building.**
+- **Always improving.**
+
+## Connect with me
+<a href="https://t.me/pulod123">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
